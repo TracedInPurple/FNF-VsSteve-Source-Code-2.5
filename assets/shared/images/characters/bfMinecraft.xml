@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfMinecraft.png">
+<SubTexture name="bfMinecraft Idle0000" x="0" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft Idle0001" x="107" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft Idle0002" x="214" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft Idle0003" x="321" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft Idle0004" x="428" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft Idle0005" x="535" y="0" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left note0000" x="0" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left note0001" x="107" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left note0002" x="214" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left note0003" x="321" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down note0000" x="428" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down note0001" x="535" y="119" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down note0002" x="0" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down note0003" x="107" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up note0000" x="214" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up note0001" x="321" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up note0002" x="428" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up note0003" x="535" y="238" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right note0000" x="0" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right note0001" x="107" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right note0002" x="214" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right note0003" x="321" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left miss0000" x="428" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left miss0001" x="535" y="357" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left miss0002" x="0" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft left miss0003" x="107" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down miss0000" x="214" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down miss0001" x="321" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down miss0002" x="428" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft down miss0003" x="535" y="476" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up miss0000" x="0" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up miss0001" x="107" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up miss0002" x="214" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft up miss0003" x="321" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right miss0000" x="428" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right miss0001" x="535" y="595" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right miss0002" x="0" y="714" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+<SubTexture name="bfMinecraft right miss0003" x="107" y="714" width="107" height="119" frameX="0" frameY="0" frameWidth="107" frameHeight="119" />
+</TextureAtlas>

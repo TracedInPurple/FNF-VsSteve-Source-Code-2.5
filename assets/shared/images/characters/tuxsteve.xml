@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tuxsteve.png">
+<SubTexture name="tuxsteve idle0000" x="0" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve idle0001" x="102" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve idle0002" x="204" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve idle0003" x="306" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve idle0004" x="0" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve down0000" x="102" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve down0001" x="204" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve left0000" x="306" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve left0001" x="0" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve right0000" x="102" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve right0001" x="204" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve up0000" x="306" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="tuxsteve up0001" x="0" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+</TextureAtlas>

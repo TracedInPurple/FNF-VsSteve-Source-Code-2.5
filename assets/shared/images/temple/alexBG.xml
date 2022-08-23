@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alexBG.png"><SubTexture name="alexBG Idle0000" x="0" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexBG Idle0001" x="129" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexBG Idle0002" x="0" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexBG Idle0003" x="129" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexBG Idle0004" x="0" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexBG Idle0005" x="129" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+</TextureAtlas>

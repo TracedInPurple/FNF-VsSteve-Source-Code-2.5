@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="steveHorse.png">
+<SubTexture name="steveHorse idle0000" x="0" y="0" width="129" height="119" frameX="0" frameY="0" frameWidth="129" frameHeight="119" />
+<SubTexture name="steveHorse idle0001" x="129" y="0" width="129" height="119" frameX="0" frameY="0" frameWidth="129" frameHeight="119" />
+<SubTexture name="steveHorse idle0002" x="258" y="0" width="129" height="119" frameX="0" frameY="0" frameWidth="129" frameHeight="119" />
+<SubTexture name="steveHorse idle0003" x="387" y="0" width="129" height="119" frameX="0" frameY="0" frameWidth="129" frameHeight="119" />
+</TextureAtlas>

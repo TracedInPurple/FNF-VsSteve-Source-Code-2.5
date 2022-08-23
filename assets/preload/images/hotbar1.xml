@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hothbar1.png">
+	<SubTexture name="MicSelALL 0000" x="0" y="0" width="24" height="63"/>
+	<SubTexture name="ShieldSelALL 0000" x="0" y="70" width="24" height="63"/>
+	<SubTexture name="PotionSelALL 0000" x="0" y="140" width="24" height="63"/>
+	<SubTexture name="MicSelNoPotion 0000" x="58" y="0" width="24" height="63"/>
+	<SubTexture name="ShieldSelNoPotion 0000" x="58" y="70" width="24" height="63"/>
+	<SubTexture name="EmtpySelNoPotion 0000" x="58" y="140" width="24" height="63"/>
+	<SubTexture name="MicSelNoShield 0000" x="116" y="0" width="24" height="63"/>
+	<SubTexture name="EmptyNoShield 0000" x="116" y="70" width="24" height="63"/>
+	<SubTexture name="PotionSelNoShield 0000" x="116" y="140" width="24" height="63"/>
+	<SubTexture name="MicSelOnly 0000" x="166" y="0" width="24" height="63"/>
+	<SubTexture name="EmptySNoSP 0000" x="166" y="70" width="24" height="63"/>
+	<SubTexture name="EmptyPNoSP 0000" x="166" y="140" width="24" height="63"/>
+</TextureAtlas>

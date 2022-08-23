@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="steveHorse.png">
+<SubTexture name="steveHorse idle0000" x="0" y="0" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse idle0001" x="105" y="0" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse idle0002" x="210" y="0" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse idle0003" x="315" y="0" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse idle0004" x="0" y="133" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse idle0005" x="105" y="133" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse down0000" x="210" y="133" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse down0001" x="315" y="133" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse left0000" x="0" y="266" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse left0001" x="105" y="266" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse right0000" x="210" y="266" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse right0001" x="315" y="266" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse up0000" x="0" y="399" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+<SubTexture name="steveHorse up0001" x="105" y="399" width="105" height="133" frameX="0" frameY="0" frameWidth="105" frameHeight="133" />
+</TextureAtlas>

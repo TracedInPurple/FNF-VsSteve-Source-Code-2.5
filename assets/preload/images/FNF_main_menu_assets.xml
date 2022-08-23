@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<SubTexture name="story mode basic0000" x="0" y="0" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="story mode white0000" x="0" y="100" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="freeplay basic0000" x="0" y="200" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="freeplay white0000" x="0" y="300" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="options basic0000" x="0" y="600" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="options white0000" x="0" y="700" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="quit basic0000" x="0" y="800" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="quit white0000" x="0" y="900" width="207" height="53" frameWidth="207" frameHeight="53" />
+	<SubTexture name="credits basic0000" x="0" y="400" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="credits white000" x="100" y="400" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="ouh basic0000" x="0" y="500" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="ouh white0000" x="100" y="500" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="secret basic0000" x="240" y="500" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="secret white0000" x="340" y="500" width="53" height="53" frameWidth="53" frameHeight="53" />
+    <SubTexture name="bonus basic0000" x="0" y="1000" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="bonus white0000" x="0" y="1100" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="bonus songs basic0000" x="0" y="1200" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="bonus songs white0000" x="0" y="1300" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="other songs basic0000" x="0" y="1400" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="other songs white0000" x="0" y="1500" width="423" height="53" frameWidth="423" frameHeight="53" />
+</TextureAtlas>

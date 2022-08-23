@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SteveArmor.png"><SubTexture name="SteveArmor idle0000" x="0" y="0" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor idle0001" x="139" y="0" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor idle0002" x="278" y="0" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor idle0003" x="417" y="0" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor idle0004" x="556" y="0" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor left0000" x="0" y="138" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor left0001" x="139" y="138" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor down0000" x="278" y="138" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor down0001" x="417" y="138" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor up0000" x="556" y="138" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor up0001" x="0" y="276" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor right0000" x="139" y="276" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor right0001" x="278" y="276" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0000" x="417" y="276" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0001" x="556" y="276" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0002" x="0" y="414" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0003" x="139" y="414" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0004" x="278" y="414" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0005" x="417" y="414" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0006" x="556" y="414" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0007" x="0" y="552" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0008" x="139" y="552" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0009" x="278" y="552" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0010" x="417" y="552" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor prepare0011" x="556" y="552" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0000" x="0" y="690" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0001" x="139" y="690" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0002" x="278" y="690" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0003" x="417" y="690" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0004" x="556" y="690" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="SteveArmor hit0005" x="0" y="828" width="139" height="138" frameX="0" frameY="0" frameWidth="139" frameHeight="138" />
+</TextureAtlas>

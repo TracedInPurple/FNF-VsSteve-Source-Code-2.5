@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minijukebox.png"><SubTexture name="minijukebox idle0000" x="0" y="0" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0001" x="31" y="0" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0002" x="62" y="0" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0003" x="93" y="0" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0004" x="124" y="0" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0005" x="0" y="82" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0006" x="31" y="82" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0007" x="62" y="82" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0008" x="93" y="82" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0009" x="124" y="82" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0010" x="0" y="164" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0011" x="31" y="164" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0012" x="62" y="164" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0013" x="93" y="164" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0014" x="124" y="164" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0015" x="0" y="246" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0016" x="31" y="246" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0017" x="62" y="246" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0018" x="93" y="246" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0019" x="124" y="246" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0020" x="0" y="328" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0021" x="31" y="328" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0022" x="62" y="328" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0023" x="93" y="328" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0024" x="124" y="328" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0025" x="0" y="410" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0026" x="31" y="410" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0027" x="62" y="410" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0028" x="93" y="410" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+<SubTexture name="minijukebox idle0029" x="124" y="410" width="31" height="82" frameX="0" frameY="0" frameWidth="31" frameHeight="82" />
+</TextureAtlas>

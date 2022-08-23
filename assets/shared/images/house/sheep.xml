@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sheep.png"><SubTexture name="sheep idle0000" x="0" y="0" width="96" height="89" frameX="0" frameY="0" frameWidth="96" frameHeight="89" />
+<SubTexture name="sheep idle0001" x="96" y="0" width="96" height="89" frameX="0" frameY="0" frameWidth="96" frameHeight="89" />
+<SubTexture name="sheep idle0002" x="192" y="0" width="96" height="89" frameX="0" frameY="0" frameWidth="96" frameHeight="89" />
+<SubTexture name="sheep idle0003" x="288" y="0" width="96" height="89" frameX="0" frameY="0" frameWidth="96" frameHeight="89" />
+<SubTexture name="sheep idle0004" x="0" y="89" width="96" height="89" frameX="0" frameY="0" frameWidth="96" frameHeight="89" />
+</TextureAtlas>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfMinecraftDies.png.png"><SubTexture name="bfMinecraftDies.png Dies0000" x="0" y="0" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0001" x="404" y="0" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0002" x="808" y="0" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0003" x="1212" y="0" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0004" x="0" y="119" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0005" x="404" y="119" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0006" x="808" y="119" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0007" x="1212" y="119" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0008" x="0" y="238" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0009" x="404" y="238" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0010" x="808" y="238" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0011" x="1212" y="238" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0012" x="0" y="357" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0013" x="404" y="357" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0014" x="808" y="357" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0015" x="1212" y="357" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0016" x="0" y="476" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0017" x="404" y="476" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0018" x="808" y="476" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0019" x="1212" y="476" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0020" x="0" y="595" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0021" x="404" y="595" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0022" x="808" y="595" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0023" x="1212" y="595" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0024" x="0" y="714" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0025" x="404" y="714" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0026" x="808" y="714" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0027" x="1212" y="714" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0028" x="0" y="833" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0029" x="404" y="833" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0030" x="808" y="833" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0031" x="1212" y="833" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0032" x="0" y="952" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0033" x="404" y="952" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0034" x="808" y="952" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0035" x="1212" y="952" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0036" x="0" y="1071" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png Dies0037" x="404" y="1071" width="404" height="119" frameX="0" frameY="0" frameWidth="404" frameHeight="119" />
+<SubTexture name="bfMinecraftDies.png respawnButton0000" x="808" y="1071" width="217" height="60" frameX="0" frameY="0" frameWidth="217" frameHeight="60" />
+<SubTexture name="bfMinecraftDies.png respawnConfirm0000" x="1025" y="1071" width="217" height="60" frameX="0" frameY="0" frameWidth="217" frameHeight="60" />
+</TextureAtlas>

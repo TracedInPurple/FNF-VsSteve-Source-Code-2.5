@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="horseBG.png"><SubTexture name="horseBG Idle0000" x="0" y="0" width="106" height="117" frameX="0" frameY="0" frameWidth="106" frameHeight="117" />
+<SubTexture name="horseBG Idle0001" x="106" y="0" width="106" height="117" frameX="0" frameY="0" frameWidth="106" frameHeight="117" />
+<SubTexture name="horseBG Idle0002" x="212" y="0" width="106" height="117" frameX="0" frameY="0" frameWidth="106" frameHeight="117" />
+<SubTexture name="horseBG Idle0003" x="318" y="0" width="106" height="117" frameX="0" frameY="0" frameWidth="106" frameHeight="117" />
+<SubTexture name="horseBG Idle0004" x="0" y="117" width="106" height="117" frameX="0" frameY="0" frameWidth="106" frameHeight="117" />
+</TextureAtlas>

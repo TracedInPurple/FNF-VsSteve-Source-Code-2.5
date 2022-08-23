@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doggo.png"><SubTexture name="dog idle0000" x="0" y="0" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+<SubTexture name="dog idle0001" x="76" y="0" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+<SubTexture name="dog idle0002" x="152" y="0" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+<SubTexture name="dog idle0003" x="228" y="0" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+<SubTexture name="dog idle0004" x="0" y="77" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+<SubTexture name="dog idle0005" x="76" y="77" width="76" height="77" frameX="0" frameY="0" frameWidth="76" frameHeight="77" />
+</TextureAtlas>

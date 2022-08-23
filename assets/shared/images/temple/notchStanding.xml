@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notchStanding.png">
+<SubTexture name="notchStanding idle0000" x="0" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notchStanding idle0001" x="126" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notchStanding idle0002" x="252" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notchStanding idle0003" x="378" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notchStanding idle0004" x="0" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notchStanding idle0005" x="126" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+</TextureAtlas>

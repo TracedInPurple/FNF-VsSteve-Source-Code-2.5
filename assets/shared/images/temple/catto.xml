@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="catto.png">
+<SubTexture name="catto idle0000" x="0" y="0" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0001" x="129" y="0" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0002" x="258" y="0" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0003" x="387" y="0" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0004" x="0" y="77" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0005" x="129" y="77" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0006" x="258" y="77" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+<SubTexture name="catto idle0007" x="387" y="77" width="129" height="77" frameX="0" frameY="0" frameWidth="129" frameHeight="77" />
+</TextureAtlas>

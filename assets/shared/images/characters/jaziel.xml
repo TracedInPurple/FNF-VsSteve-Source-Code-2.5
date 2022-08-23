@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jaziel.png"><SubTexture name="jaziel idle0000" x="0" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0001" x="102" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0002" x="204" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0003" x="306" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0004" x="408" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0005" x="510" y="0" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0006" x="0" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0007" x="102" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0008" x="204" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0009" x="306" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0010" x="408" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0011" x="510" y="114" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0012" x="0" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0013" x="102" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0014" x="204" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel idle0015" x="306" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0000" x="408" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0001" x="510" y="228" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0002" x="0" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0003" x="102" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0004" x="204" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0005" x="306" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0006" x="408" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel crouch0007" x="510" y="342" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0000" x="0" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0001" x="102" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0002" x="204" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0003" x="306" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0004" x="408" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0005" x="510" y="456" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0006" x="0" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0007" x="102" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0008" x="204" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0009" x="306" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0010" x="408" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0011" x="510" y="570" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0012" x="0" y="684" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0013" x="102" y="684" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+<SubTexture name="jaziel espionage0014" x="204" y="684" width="102" height="114" frameX="0" frameY="0" frameWidth="102" frameHeight="114" />
+</TextureAtlas>

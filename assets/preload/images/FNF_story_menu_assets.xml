@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FNF_story_menu_assets.png">
+	<SubTexture name="day1 basic0000" x="0" y="0" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="day1 white0000" x="0" y="100" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="day2 basic0000" x="0" y="200" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="day2 white0000" x="0" y="300" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="day3 basic0000" x="0" y="400" width="207" height="53" frameWidth="207" frameHeight="53" />
+    <SubTexture name="day3 white0000" x="0" y="500" width="207" height="53" frameWidth="207" frameHeight="53" />
+</TextureAtlas>

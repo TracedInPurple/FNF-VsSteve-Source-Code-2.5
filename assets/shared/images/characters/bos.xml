@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bos.png"><SubTexture name="bos idle0000" x="0" y="0" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos idle0001" x="114" y="0" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos idle0002" x="228" y="0" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos idle0003" x="342" y="0" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos idle0004" x="0" y="114" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos idle0005" x="114" y="114" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos left0000" x="228" y="114" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos left0001" x="342" y="114" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos left0002" x="0" y="228" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos down0000" x="114" y="228" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos down0001" x="228" y="228" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos down0002" x="342" y="228" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos up0000" x="0" y="342" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos up0001" x="114" y="342" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos up0002" x="228" y="342" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos right0000" x="342" y="342" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos right0001" x="0" y="456" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+<SubTexture name="bos right0002" x="114" y="456" width="114" height="114" frameX="0" frameY="0" frameWidth="114" frameHeight="114" />
+</TextureAtlas>

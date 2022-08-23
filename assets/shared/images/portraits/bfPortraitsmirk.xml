@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfPortraitsmirk.png">
+<SubTexture name="bfPortrait instance0000" x="0" y="0" width="70" height="63" frameX="0" frameY="0" frameWidth="70" frameHeight="63" />
+<SubTexture name="bfPortrait instance0001" x="70" y="0" width="70" height="63" frameX="0" frameY="0" frameWidth="70" frameHeight="63" />
+<SubTexture name="bfPortrait instance0002" x="140" y="0" width="70" height="63" frameX="0" frameY="0" frameWidth="70" frameHeight="63" />
+<SubTexture name="bfPortrait instance0003" x="210" y="0" width="70" height="63" frameX="0" frameY="0" frameWidth="70" frameHeight="63" />
+</TextureAtlas>

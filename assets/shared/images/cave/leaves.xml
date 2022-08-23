@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="petals.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leaves0000" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0001" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0002" x="313" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0003" x="313" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0004" x="626" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0005" x="939" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0006" x="1252" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0007" x="1252" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0008" x="1565" y="0" width="311" height="161"/>
+	<SubTexture name="leaves0009" x="0" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0010" x="313" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0011" x="626" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0012" x="939" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0013" x="1252" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0014" x="1252" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0015" x="1565" y="163" width="311" height="161"/>
+	<SubTexture name="leaves0016" x="0" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0017" x="313" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0018" x="313" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0019" x="626" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0020" x="939" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0021" x="1252" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0022" x="1252" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0023" x="1565" y="326" width="311" height="161"/>
+	<SubTexture name="leaves0024" x="0" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0025" x="313" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0026" x="626" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0027" x="939" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0028" x="1252" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0029" x="1565" y="489" width="311" height="161"/>
+	<SubTexture name="leaves0030" x="0" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0031" x="313" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0032" x="626" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0033" x="939" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0034" x="1252" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0035" x="1252" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0036" x="1565" y="652" width="311" height="161"/>
+	<SubTexture name="leaves0037" x="0" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0038" x="313" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0039" x="313" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0040" x="626" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0041" x="939" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0042" x="939" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0043" x="1252" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0044" x="1565" y="815" width="311" height="161"/>
+	<SubTexture name="leaves0045" x="0" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0046" x="313" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0047" x="626" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0048" x="939" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0049" x="1252" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0050" x="1565" y="978" width="311" height="161"/>
+	<SubTexture name="leaves0051" x="0" y="1141" width="311" height="161"/>
+	<SubTexture name="leaves0052" x="313" y="1141" width="311" height="161"/>
+	<SubTexture name="leaves0053" x="313" y="1141" width="311" height="161"/>
+	<SubTexture name="leaves0054" x="626" y="1141" width="311" height="161"/>
+	<SubTexture name="leaves0055" x="0" y="0" width="311" height="161"/>
+</TextureAtlas>

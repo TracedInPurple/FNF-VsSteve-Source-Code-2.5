@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jeb.png"><SubTexture name="jeb idle0000" x="0" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb idle0001" x="126" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb idle0002" x="252" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb idle0003" x="378" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb idle0004" x="0" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb left0000" x="126" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb left0001" x="252" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb left0002" x="378" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb down0000" x="0" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb down0001" x="126" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb down0002" x="252" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb up0000" x="378" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb up0001" x="0" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb up0002" x="126" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb right0000" x="252" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb right0001" x="378" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="jeb right0002" x="0" y="560" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+</TextureAtlas>

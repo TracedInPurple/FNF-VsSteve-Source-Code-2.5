@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFreaks.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG devs group0000" x="0" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0001" x="0" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0002" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0003" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0004" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0005" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0006" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0007" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0008" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0009" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0010" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0011" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0012" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0013" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0014" x="460" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0015" x="460" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0016" x="0" y="636" width="450" height="96"/>
+	<SubTexture name="BG devs group0017" x="0" y="636" width="450" height="96"/>
+	<SubTexture name="BG devs group0018" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0019" x="0" y="530" width="450" height="96"/>
+	<SubTexture name="BG devs group0020" x="460" y="636" width="450" height="96"/>
+	<SubTexture name="BG devs group0021" x="460" y="636" width="450" height="96"/>
+	<SubTexture name="BG devs group0022" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0023" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0024" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0025" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0026" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0027" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0028" x="460" y="424" width="450" height="96"/>
+	<SubTexture name="BG devs group0029" x="460" y="424" width="450" height="96"/>
+</TextureAtlas>

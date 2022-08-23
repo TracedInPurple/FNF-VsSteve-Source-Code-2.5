@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<SubTexture name="retry basic0000" x="0" y="0" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="retry white0000" x="0" y="100" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="quit basic0000" x="0" y="200" width="423" height="53" frameWidth="423" frameHeight="53" />
+    <SubTexture name="quit white0000" x="0" y="300" width="423" height="53" frameWidth="423" frameHeight="53" />
+</TextureAtlas>

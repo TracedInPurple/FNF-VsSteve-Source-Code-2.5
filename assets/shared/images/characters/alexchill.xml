@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alexchill.png">
+<SubTexture name="alexchill idle0000" x="0" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill idle0001" x="129" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill idle0002" x="258" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill idle0003" x="387" y="0" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill idle0004" x="0" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill idle0005" x="129" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill left0000" x="258" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill left0001" x="387" y="113" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill left0002" x="0" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill down0000" x="129" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill down0001" x="258" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill down0002" x="387" y="226" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill up0000" x="0" y="339" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill up0001" x="129" y="339" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill up0002" x="258" y="339" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill right0000" x="387" y="339" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill right0001" x="0" y="452" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+<SubTexture name="alexchill right0002" x="129" y="452" width="129" height="113" frameX="0" frameY="0" frameWidth="129" frameHeight="113" />
+</TextureAtlas>

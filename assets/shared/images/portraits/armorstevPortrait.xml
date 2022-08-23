@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="armorstevPortrait.png">
+<SubTexture name="armorstevPortrait instance0000" x="0" y="0" width="141" height="102" frameX="0" frameY="0" frameWidth="141" frameHeight="102" />
+<SubTexture name="armorstevPortrait instance0001" x="141" y="0" width="141" height="102" frameX="0" frameY="0" frameWidth="141" frameHeight="102" />
+<SubTexture name="armorstevPortrait instance0002" x="282" y="0" width="141" height="102" frameX="0" frameY="0" frameWidth="141" frameHeight="102" />
+<SubTexture name="armorstevPortrait instance0003" x="423" y="0" width="141" height="102" frameX="0" frameY="0" frameWidth="141" frameHeight="102" />
+</TextureAtlas>

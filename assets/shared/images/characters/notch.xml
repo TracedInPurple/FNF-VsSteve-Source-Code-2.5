@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notch.png"><SubTexture name="notch idle0000" x="0" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch idle0001" x="126" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch idle0002" x="252" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch idle0003" x="378" y="0" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch idle0004" x="0" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch left0000" x="126" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch left0001" x="252" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch left0002" x="378" y="140" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch down0000" x="0" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch down0001" x="126" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch down0002" x="252" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch up0000" x="378" y="280" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch up0001" x="0" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch up0002" x="126" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch right0000" x="252" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch right0001" x="378" y="420" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch right0002" x="0" y="560" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappledown0000" x="126" y="560" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappledown0001" x="252" y="560" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappledown0002" x="378" y="560" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappleup0000" x="0" y="700" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappleup0001" x="126" y="700" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+<SubTexture name="notch gappleup0002" x="252" y="700" width="126" height="140" frameX="0" frameY="0" frameWidth="126" frameHeight="140" />
+</TextureAtlas>

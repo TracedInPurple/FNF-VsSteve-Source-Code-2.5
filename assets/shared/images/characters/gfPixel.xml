@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfPixel.png">
+<SubTexture name="GF IDLE0000" x="0" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0001" x="0" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0002" x="115" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0003" x="115" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0004" x="115" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0005" x="230" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0006" x="230" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0007" x="230" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0008" x="230" y="0" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0009" x="0" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0010" x="0" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0011" x="0" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0012" x="0" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0013" x="115" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0014" x="115" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0015" x="230" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0016" x="230" y="112" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0017" x="0" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0018" x="0" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0019" x="0" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0020" x="115" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0021" x="115" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0022" x="115" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0023" x="115" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0024" x="115" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0025" x="230" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0026" x="230" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0027" x="230" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0028" x="230" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="GF IDLE0029" x="230" y="224" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0000" x="0" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0001" x="0" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0002" x="0" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0003" x="115" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0004" x="115" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0005" x="115" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0006" x="230" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+<SubTexture name="HEY0007" x="230" y="336" width="115" height="112" frameX="0" frameY="0" frameWidth="115" frameHeight="112" />
+</TextureAtlas>
